@@ -1,8 +1,8 @@
 .DS_Store
 node_modules/**
 
-uploads/**
-registry/**
+content/uploads/**
+content/registry/**
 cert/**
 HomeUpload_SilentRun_log.txt
 !**/.init
